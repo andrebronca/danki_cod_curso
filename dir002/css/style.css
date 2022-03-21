@@ -1,0 +1,22 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.menu{
+	width: auto;
+	background-color: #FFA07A;
+	margin: 10px auto; /*centraliza, top/bottom com 10, l/r auto */
+	padding: 10px 10px;
+	text-align: center;
+
+}
+
+.menu a {
+	color:  #DC143C;
+	font-size: 20px; /* 16 é o padrão */
+	margin: 0 5px;
+	text-decoration: none;
+	border: 2px solid #8B0000;
+	border-radius: 5px;
+	padding: 0 3px;
+}

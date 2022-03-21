@@ -1,0 +1,21 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.artigo {
+	width: 800px;
+	margin: 40px auto;
+	text-align: center;
+}
+
+.artigo h1{
+	color: #FF4500;
+	font-size: 23px; /* equivale a 100% do tamanho padrão */
+	font-family: Georgia, Verdana;
+}
+
+.artigo p{
+	color: #363636;
+	font-family: Georgia, Verdana;
+}

@@ -1,0 +1,26 @@
+
+#div1 h1{ /*todas as h1 dentro de div 1 ('espaço') */
+	color: red;
+}
+#div2 > h1{ /*somente as h1 filhas e não dentro de outras tags ('>') */
+	color: blue;
+}
+.div-1 {
+	background: #483d8b;
+}
+.div-2 {
+	background: #4682b4;
+}
+
+h1{
+	color: yellow;
+	background: green;
+}
+
+h2{
+	background: blue;
+}
+
+a{
+	text-decoration: none;
+}
